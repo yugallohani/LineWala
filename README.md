@@ -40,14 +40,5 @@ A lightweight web-based system to help barbers manage customer queues without lo
 
 ---
 
-## 🔧 Setup Instructions
-1. Clone the repository  
-2. Install dependencies: `npm install`  
-3. Setup `.env` with DB credentials and Twilio/WhatsApp keys (optional)  
-4. Run backend: `npm start`  
-5. Run frontend: `npm run dev`  
-
----
-
 ### 📄 License
 MIT License
