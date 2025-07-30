@@ -1,7 +1,7 @@
 # eLINE - Digitize Your Queues. Respect Their Time
 ![eLINE Banner](img1.png)
 # 😄 But in eLINE,
-"Chahe aap jahaan bhi khade ho, line toh fairness se hi shuru hoti hai."
+# "Chahe aap jahaan bhi khade ho, line toh fairness se hi shuru hoti hai."
 
 Tired of the ancient art of “Bhaiya mera number kab aayega?”  
 Welcome to **eLINE** – where queues go digital, fair, and drama-free.  
