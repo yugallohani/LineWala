@@ -1,5 +1,6 @@
 # eLINE - Digitize Your Queues. Respect Their Time
-<img src="img1.png" alt="eLINE Banner" width="300" />
+<img src="img1.png" alt="eLINE Banner" width="500" />
+
 # 😄 But in eLINE,
 # "Chahe aap jahaan bhi khade ho, line toh fairness se hi shuru hoti hai."
 
