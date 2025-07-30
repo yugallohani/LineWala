@@ -1,4 +1,4 @@
-# LineWala
+# eLINE
 # Smart Barber Queue Management System
 
 A lightweight web-based system to help barbers manage customer queues without long in-shop waiting times. Customers can join the queue using a QR code or short URL, and barbers can approve them into the queue to avoid confusion and misuse.
