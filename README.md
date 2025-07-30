@@ -15,7 +15,6 @@ No more uncle cutting the line with *“Main toh pehle se wait kar raha hoon”*
 
 **🚫eLINE:**  
 > “Yahaan setting nahi, sirf scheduling chalti hai.”
-> Because technology ≠ todbaazi.
 
 ## 🚀 Features (a.k.a. Why eLINE > shouting in a barber shop)
 
